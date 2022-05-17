@@ -1,5 +1,5 @@
 echo "hello git! hello molishanguangssssssniubi "
-echo "$(ls)"
+echo "$(cd /d/;ls)"
 echo "hello git! hello molishanguang"
 echo "hello git! hello molishanguang"
 echo "hello git! hello molishanguang"
