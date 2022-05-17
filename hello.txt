@@ -1,4 +1,4 @@
-echo "hello git! hello molishanguang"
+echo "hello git! hello molishanguangssssssniubi "
 echo "hello git! hello molishanguang"
 echo "hello git! hello molishanguang"
 echo "hello git! hello molishanguang"
